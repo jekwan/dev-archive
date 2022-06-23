@@ -19,11 +19,12 @@ npm install react react-dom
 
 # 2. Webpack
 
-앞으로 만들 리액트 컴포넌트들과 여러 Asset들을 번들링하기 위한 도구로 `Webpack`을 사용하도록 하겠습니다.  
-아래와 같이 3가지의 패키지를 설치합니다.
+앞으로 만들 리액트 컴포넌트들과 여러 Asset들을 번들링하기 위한 도구로 `Webpack`을 사용하도록 하겠습니다.
 
 > [Why webpack](https://webpack.js.org/concepts/why-webpack/)  
 > `Webpack`은 스코프 문제도 해결해주는 등 다양한 장점이 있다고 소개하고 있습니다.
+
+아래와 같이 3가지의 패키지를 설치합니다.
 
 ```
 npm install --save-dev webpack webpack-cli webpack-dev-server
