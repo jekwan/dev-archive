@@ -1,33 +1,5 @@
 # FrontEnd
 
-* 브라우저의 렌더링 원리
-
-* CSS에서 margin과 padding 그리고 position
-
-* RESTFUL이란?
-* GET/POST의 차이
-
-* 브라우저의 저장소 (Localstorage, SessionStorage, Cookie)
-
-* 이벤트 버블링
-
-* SPA 그리고 CSR과 SSR
-* * https://velog.io/@ru_bryunak/SPA-%EC%82%AC%EC%9A%A9%EC%97%90%EC%84%9C%EC%9D%98-SSR%EA%B3%BC-CSR
-
-* CORS란? SOP란?
-
-* 크로스 브라우징?
-
-* progressive rendering
-
-* SEO란?
-
-* 다국어 페이지 제공 방식
-
-* HTML5란?
-
-* Semantic tag란?
-
-* SASS/SCSS와 CSS의 차이
-
-* HTTP통신의 문제점? HTTPS란?
+|제목|등록 일자|최근 업데이트|
+|:---|:---|:---|
+| [`CRA 없이 리액트 개발 시작하기`](https://github.com/jekwan/dev-archive/blob/master/frontend/start-react-without-cra.md) | 2022.06.23 | 2022.06.24 |
